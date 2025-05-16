@@ -21,4 +21,4 @@ https://github.com/jerbi2026/chkoba_multijoueur/assets/116197682/068ba957-3139-4
 ![chkoba2](https://github.com/jerbi2026/chkoba_multijoueur/assets/116197682/7c7a970e-7059-4a14-86e0-00a324729147)
 ![chkoba](https://github.com/jerbi2026/chkoba_multijoueur/assets/116197682/dc6fbc3f-9e8c-411b-a359-0563fe8eb86d)
 
-# Elaboré par : Mhiri Ahmed Aziz, jerbi Ahmed , Zairi Mohamed Rami et Slaimi Houssem 
+# Elaboré par : Mhiri Ahmed Aziz, jerbi Ahmed 
